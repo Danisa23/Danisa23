@@ -108,7 +108,7 @@ Seguir desarrollando mis habilidades en Front-End mediante proyectos prácticos 
 
 ## 📫 Contacto
 
-📧 **Email:** [Agregar tu correo profesional]
+📧 **Email:** danisaleyton03@gmail.com
 
 💼 **GitHub:** [Danisa23](https://github.com/Danisa23)
 
